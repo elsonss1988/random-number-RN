@@ -4,7 +4,7 @@ import styled from "styled-components/native";
 
 export const SafeContainer = styled(SafeAreaView)`
   display: flex;
-  flex: 1 100%;
+  flex: 1;
   justify-content: center;
   align-items: center;
   background-color: #fcfcfc;
